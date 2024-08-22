@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Ruki-ibr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Ruki-ibr/Ruki-ibr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +13,10 @@ Proficient in SQL, Excel, PowerBi and adept at utilizing tools like Tableau. I e
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [Kaya.Ib@hotmail.com](mailto:Kaya.Ib@hotmail.com)
-* 🧠  I'm learning PowerBi
+* 👀  I’m interested in furthering my knowledge in SQL, Python, R and PowerBi
+* 🧠  I'm currently learning PowerBi
 * 🤝  I'm open to collaborating on Challenging Projects that extend my Knowledge
-* ⚡  I love baking cakes and treats!
+* ⚡  FunFact: I love baking cakes and treats in my spare time!
 
 <a href="https://www.github.com/Ruki-ibr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ruki-ibr?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
