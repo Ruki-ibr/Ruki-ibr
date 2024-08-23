@@ -9,6 +9,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Data Analyst
 -------------------
 
+Hello, I am Rukaya Ibrahim but everybody calls me Ruki! I have developed a passion for data handling from cleaning, analysis, presenting and interpreting.
+After graduating with my BSc in Biology from the University of Surrey, I embarked on a transformative journey from Biology to Data Analytics. My initial passion for plant and human biology not only fuelled my academic pursuits but also provided a unique perspective that laid the foundations for my analytical way of thinking.
+
+Working as a research assistant at the University of Wollongong in Australia was vital in shaping the trajectory of my career goals. Throughout the year, I was involved in numerous projects, including the collection of anthropometric measurements from 21 participants diagnosed with mild cognitive impairment as part of an ongoing clinical trial. Subsequently, I analyzed dietary assessment data using computerized databases like Foodworks and Excel.
+
+My contributions extended to participating in two systematic literature reviews, both of which were published in high-impact journals. In this role, I critically evaluated various studies by assessing their strengths and weaknesses to identify gaps in research related to high blood pressure in adults. This process enhanced my critical thinking skills significantly. I constructed a comprehensive paper articulating complex ideas and presenting my research findings, revealing a compelling association between a lower 24-hour urinary Na: K ratio and lower blood pressure in adults.
+
+Driven by a newfound passion for uncovering insights from complex data sets, I embarked on a self-taught journey to master SPSS for data statistics and SQL for data querying. To further consolidate my skills, I completed a 14-week intensive Data Analytics course with TechTalent, Google Data Analytics course, and recently concluded the JustIT Data Engineering course to further refine my expertise in data cleaning, analysis, and visualization.
+
+*Technical Skill*
+
+Proficient in SQL and adept at utilizing tools like Tableau, I excel at transforming raw data into actionable intelligence. Throughout the Google Data Analytics course, I tackled real-world projects, employing statistical analysis to derive meaningful conclusions. With a steadfast commitment to precision and a keen eye for detail, I have developed a robust foundation in data-driven decision-making. I am enthusiastic about contributing my expertise to a team and driving impactful outcomes through the strategic use of data.
+
+Proficenies in: SQL, MySQL, Python, R Studio, PowerBi, Tableau
+
+Let's connect and explore the exciting possibilities at the intersection of analytics and innovation!
+
 Proficient in SQL, Excel, PowerBi and adept at utilizing tools like Tableau. I excel at transforming raw data into actionable intelligence.
 
 * 🌍  I'm based in London
