@@ -29,7 +29,7 @@ Let's connect and explore the exciting possibilities at the intersection of anal
 Proficient in SQL, Excel, PowerBi and adept at utilizing tools like Tableau. I excel at transforming raw data into actionable intelligence.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [Kaya.Ib@hotmail.com](mailto:Kaya.Ib@hotmail.com)
+* ✉️  You can contact me at r.kayaibrahim@gmail.com
 * 👀  I’m interested in furthering my knowledge in SQL, Python, R and PowerBi
 * 🧠  I'm currently learning PowerBi
 * 🤝  I'm open to collaborating on Challenging Projects that extend my Knowledge
